@@ -13,15 +13,15 @@ Project Structure
 4. [Further sections to be added as per the content of the notebook].
 
 Technologies Used
-• Python: The primary programming language used for data analysis and visualization.
-• Pandas: For data manipulation and analysis.
-• NumPy: Essential for numerical operations. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
-• Matplotlib: A plotting library for creating static, interactive, and animated visualizations in Python.
-• Seaborn: Based on Matplotlib, this library provides a high-level interface for drawing attractive and informative statistical graphics.
-• Scikit-learn: An essential tool for machine learning in Python. It features various algorithms for classification, regression, clustering, and more.
-• SciPy: Used for scientific and technical computing. It includes modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, and more.
-• Plotly: For creating interactive plots and dashboards. It’s particularly useful when you want to display interactive graphs on a web page.
-• Jupyter Notebook: An open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
+1. Python: The primary programming language used for data analysis and visualization.
+2. Pandas: For data manipulation and analysis.
+3. NumPy: Essential for numerical operations. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+4. Matplotlib: A plotting library for creating static, interactive, and animated visualizations in Python.
+5. Seaborn: Based on Matplotlib, this library provides a high-level interface for drawing attractive and informative statistical graphics.
+6. Scikit-learn: An essential tool for machine learning in Python. It features various algorithms for classification, regression, clustering, and more.
+7. SciPy: Used for scientific and technical computing. It includes modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, and more.
+8. Plotly: For creating interactive plots and dashboards. It’s particularly useful when you want to display interactive graphs on a web page.
+9. Jupyter Notebook: An open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 
 Installation and Usage
 1. Clone the repository.
