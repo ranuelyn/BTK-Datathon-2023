@@ -15,13 +15,20 @@ Project Structure
 Technologies Used
 • Python: The primary programming language used for data analysis and visualization.
 • Pandas: For data manipulation and analysis.
-• [Other libraries and technologies used in the project].
+• NumPy: Essential for numerical operations. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+• Matplotlib: A plotting library for creating static, interactive, and animated visualizations in Python.
+• Seaborn: Based on Matplotlib, this library provides a high-level interface for drawing attractive and informative statistical graphics.
+• Scikit-learn: An essential tool for machine learning in Python. It features various algorithms for classification, regression, clustering, and more.
+• SciPy: Used for scientific and technical computing. It includes modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, and more.
+• Plotly: For creating interactive plots and dashboards. It’s particularly useful when you want to display interactive graphs on a web page.
+• Jupyter Notebook: An open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 
 Installation and Usage
-• Clone the repository.
-• Install the required dependencies: pip install -r requirements.txt (You might need to create this file based on the libraries used in the project).
-• Run the Jupyter Notebook to view the analysis: jupyter notebook 'Datathon 2023.ipynb'.
+1. Clone the repository.
+2. Install the required dependencies: pip install -r requirements.txt (You might need to create this file based on the libraries used in the project).
+3. Run the Jupyter Notebook to view the analysis: jupyter notebook 'Datathon 2023.ipynb'.
 
 Contributions and Feedback
+
 Contributions to this project are welcome. Please feel free to fork the repository and submit your pull requests. For any feedback or issues, please open an issue in the GitHub repository.
 
