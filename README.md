@@ -25,8 +25,7 @@ Technologies Used
 
 Installation and Usage
 1. Clone the repository.
-2. Install the required dependencies: pip install -r requirements.txt (You might need to create this file based on the libraries used in the project).
-3. Run the Jupyter Notebook to view the analysis: jupyter notebook 'Datathon 2023.ipynb'.
+2. Run the Jupyter Notebook to view the analysis: jupyter notebook 'Datathon 2023.ipynb'.
 
 Contributions and Feedback
 
